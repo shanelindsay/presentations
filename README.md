@@ -28,4 +28,4 @@ Static presentation site powered by [reveal.js](https://revealjs.com/) and GitHu
 Run `git -C reveal.js pull` to fetch the latest upstream changes. Commit the updated files to your repository when ready.
 
 ## Additional decks
-- [`inductions/bsc-psychology-induction/`](inductions/bsc-psychology-induction/) – Year 3 BSc Psychology project induction deck.
+- [`diss-induction/`](diss-induction/) – Year 3 BSc Psychology project induction deck.
