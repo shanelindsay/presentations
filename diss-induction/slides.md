@@ -7,24 +7,43 @@ Note:
 ---
 
 ## Session Flow (50 minutes)
-- Introduction from me · 5 min
 - Student icebreaker · 5 min
 - Supervisor briefing · 20 min
-- Resources walkthrough · 5 min
 - Small-group breakout · 5–10 min
 - Schedule next meetings · 5 min
 
 ---
 
 ## Introduction from Me
+- My approach
+- Project types:
+- Student led - mixed - supervisor led
+  
+---
+
+## Research topics
 
 ---
 
-## Icebreaker: Around the Room
-- Each student shares name, project idea or interest area, and one fun fact
-- Encourage active listening and note-taking for potential collaborators
-- Keep introductions to ~30 seconds each
 
+## Language and memory
+
+
+---
+
+## Precision or Gist? How the mind compresses new words
+
+### Big question:
+When you learn a new word, when do you store fine detail, and when do you compress it into a gist that helps you generalise?
+- Detail helps you tell similar words apart
+- Compression helps you use what you learned with new examples
+- Your project will test what pushes the system toward detail or toward gist
+
+---
+
+
+## Icebreaker: Around the Room
+- Each student shares name, where are you from, why did you study psychology, plans after graduation, project idea or interest area, favourite dessert
 
 ---
 
@@ -33,14 +52,7 @@ Note:
 - Timetable & assessment checkpoints
 - Key milestones to track progress
 - Weekly workload expectations
-
-
-------
-
-### Project Handbook
-- Contents: module overview, deliverables, marking criteria
 - Academic integrity and ethics approvals
-
 
 ------
 
@@ -52,39 +64,19 @@ Note:
 ------
 
 ### Milestones & Workload
-- 60 credits per semester → equivalent of full-time commitment
+- 20 credits per semester 
 - Allocate 1.5 days (≈15 hours) weekly to project work
-- Set weekly goals: data collection, analysis, writing, supervision prep
-
----
-
-## Resources Snapshot
-- Box folders: central hub for materials and submissions
-- Project template: structure for reports and logs
-- Poster template: aligns with final showcase requirements
+- Set goals: data collection, analysis, writing, supervision prep
 
 ---
 
 ## Breakout Activity (5–10 min)
-- Form groups of three based on shared themes or methods
+- Form groups based shared themes or methods
 - Discuss potential project directions and immediate questions
-- Select one spokesperson to summarise takeaway to whole group
-
----
-
-## Share-Out & Next Steps
-- Spokespersons give a 1-minute highlight from discussions
-- Capture action items on whiteboard or shared doc
-- Clarify support channels (Teams, email, drop-in hours)
+- Feed back to rest of the group at the end
 
 ---
 
 ## Schedule Follow-Ups
-- Confirm individual supervision meeting slots
-- Set whole-cohort check-in date
-- Note key deadlines before next touchpoint
 
 ---
-
-## Thank You & Contact
-- Office hours: 
