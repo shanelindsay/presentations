@@ -1,8 +1,5 @@
 ## Year 3 BSc Psychology Project Induction
 ### Welcome & Orientation 2025/26
-Note:
-- Welcome the cohort and set expectations for an interactive session.
-- Mention that the deck will be shared afterwards in the Box folder.
 
 ---
 
@@ -34,16 +31,21 @@ When you learn a new word, when do you store fine detail, and when do you compre
 - Compression helps you use what you learned with new examples (allows generalisation)
 - Your project will test what pushes the system toward detail or toward gist
 
+---
+
 ## Compression and clinical relevance
 - Threat Generalisation & Intolerance of Uncertainty (IU - IUS‑12)
 - Over general memory bias & depression 
 - Sleep - quality/disruption impacts 
 
 ---
+
 ## AI and education
 - How do you learn to work with AI's that are super-smart?
 - Future of work and "agents" - what skills will undergrads need to develop?
 - Quantitative skills - using AI for stats
+
+---
 
 ## AI and qualitative
 - Becoming the Manager: Identity & Agency - "How does delegating analysis change feelings of competence, ownership, and responsibility?"
