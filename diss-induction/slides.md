@@ -23,24 +23,33 @@ Note:
 
 ## Research topics
 
----
-
-
-## Language and memory
-
-
+- Language and memory
+- AI
 ---
 
 ## Precision or Gist? How the mind compresses new words
 
-### Big question:
 When you learn a new word, when do you store fine detail, and when do you compress it into a gist that helps you generalise?
 - Detail helps you tell similar words apart
-- Compression helps you use what you learned with new examples
+- Compression helps you use what you learned with new examples (allows generalisation)
 - Your project will test what pushes the system toward detail or toward gist
 
----
+## Compression and clinical relevance
+- Threat Generalisation & Intolerance of Uncertainty (IU - IUS‑12)
+- Over general memory bias & depression 
+- Sleep - quality/disruption impacts 
 
+---
+## AI and education
+- How do you learn to work with AI's that are super-smart?
+- Future of work and "agents" - what skills will undergrads need to develop?
+- Quantitative skills - using AI for stats
+
+## AI and qualitative
+- Becoming the Manager: Identity & Agency - "How does delegating analysis change feelings of competence, ownership, and responsibility?"
+- Ethics & Authorship in Agent‑Assisted Work - Where do students draw authorship and responsibility lines across gradations of assistance??
+
+---
 
 ## Icebreaker: Around the Room
 - Each student shares name, where are you from, why did you study psychology, plans after graduation, project idea or interest area, favourite dessert
